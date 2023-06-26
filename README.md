@@ -44,3 +44,7 @@ Typescript<br />
 Javascript<br />
 HTML<br />
 CSS<br />
+
+Versions:
+Angular CLI 13.0.4
+NodeJS 16.10.0
